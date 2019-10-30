@@ -1,0 +1,24 @@
+﻿body {
+    background-color: aquamarine;
+}
+
+p {
+    color: forestgreen;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+    p.dsgn {
+        color: maroon;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        font-style: italic;
+    }
+
+.head1 {
+    color: orangered;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+}
